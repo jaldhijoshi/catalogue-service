@@ -5,6 +5,7 @@
       "target": "es6",
       "noImplicitAny": true,
       "suppressImplicitAnyIndexErrors": true,
+      "resolveJsonModule": true,
       "moduleResolution": "node",
       "sourceMap": true,
       "outDir": "dist",
@@ -22,7 +23,8 @@
       }
     },
     "include": [
-      "src/**/*"
+      "src/**/*",
+      "src/**/*.json"
     ]
   }
   
