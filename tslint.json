@@ -1,0 +1,9 @@
+{
+    "extends": [
+      "tslint-clean-code"
+    ],
+    "rules": {
+      "newspaper-order": true
+    }
+  }
+  

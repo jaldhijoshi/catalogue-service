@@ -1,0 +1,10 @@
+{
+    "database": "catalogue",
+    "username": "postgres",
+    "password": "pmc123",
+    "params": {
+      "host": "localhost",
+      "dialect": "postgres",
+      "operatorsAliases": false
+    }
+  }
